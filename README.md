@@ -17,8 +17,12 @@ Backend API for the SAHYatri Tourist Safety Platform.
 * MongoDB (Mongoose)
 * Socket.IO
 * JWT (Authentication)
-  
-📁 Folder Structure
+
+---
+
+## 📁 Folder Structure
+
+```
 sahyatri-backend/
 ├── models/
 ├── routes/
@@ -28,7 +32,9 @@ sahyatri-backend/
 ├── README.md
 ├── .env.example
 ├── server.js
-├── package.json
+└── package.json
+```
+
 
 
 ## 📦 Setup
